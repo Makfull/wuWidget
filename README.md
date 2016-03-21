@@ -92,3 +92,7 @@ and this is the template for forercast items **htmlForecastTemplate**
 ```
 
 NOTE: Be carefull when you modify these templates. The widget template variables are marked with **#varName#** like ex. #weatherIcon#
+
+#### ScreenShots
+
+![image](https://github.com/Makfull/wuWidget/blob/master/wu2.PNG)     ![image](https://github.com/Makfull/wuWidget/blob/master/wu1.PNG)
